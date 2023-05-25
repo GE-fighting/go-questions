@@ -6,7 +6,7 @@ func f() (int, int) {
 	return 1, 1
 }
 
-//func main() {
+//func main.go() {
 //	var x int
 //	//x, _ := f()
 //	x, _ = f()
@@ -32,7 +32,7 @@ func f() (int, int) {
 //		return r
 //	}
 //
-//	func main() {
+//	func main.go() {
 //		fmt.Println(increaseA())
 //		fmt.Println(increaseB())
 //	}

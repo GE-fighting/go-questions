@@ -11,7 +11,7 @@ import "fmt"
 // func g(x *interface{}) {
 // }
 //
-//	func main() {
+//	func main.go() {
 //		s := S{}
 //		p := &s
 //		f(s) //A

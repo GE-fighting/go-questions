@@ -4,7 +4,7 @@ package main
 //	return nil
 //}
 //
-//func main() {
+//func main.go() {
 //	h := hello
 //	fmt.Printf("%T\n", h)
 //	if h == nil {

@@ -7,7 +7,7 @@ import "fmt"
 //		fmt.Println("F")
 //	}
 //
-//	func main() {
+//	func main.go() {
 //		f()
 //		fmt.Println("M")
 //	}

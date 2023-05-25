@@ -2,7 +2,7 @@ package main
 
 //import "fmt"
 //
-//func main() {
+//func main.go() {
 //	sn1 := struct {
 //		age  int
 //		name string

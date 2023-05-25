@@ -1,6 +1,6 @@
 package main
 
-//func main() {
+//func main.go() {
 //
 //	s1 := []int{1, 2, 3}
 //	s2 := s1[1:]

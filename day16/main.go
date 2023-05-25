@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// func main() {
+// func main.go() {
 //
 //		s := [3]int{1, 2, 3}
 //		a := s[:0]
@@ -13,7 +13,7 @@ import "fmt"
 //		fmt.Printf("c's len is %d,cap is %d \n", len(c), cap(c))
 //	}
 
-//func main() {
+//func main.go() {
 //	var m map[string]int //A
 //	m = make(map[string]int)
 //	m["a"] = 1
